@@ -1,0 +1,14 @@
+C:\Users\SYS-232\OneDrive\Desktop\StringPractice\bin\Debug\net8.0\StringPractice.exe
+C:\Users\SYS-232\OneDrive\Desktop\StringPractice\bin\Debug\net8.0\StringPractice.deps.json
+C:\Users\SYS-232\OneDrive\Desktop\StringPractice\bin\Debug\net8.0\StringPractice.runtimeconfig.json
+C:\Users\SYS-232\OneDrive\Desktop\StringPractice\bin\Debug\net8.0\StringPractice.dll
+C:\Users\SYS-232\OneDrive\Desktop\StringPractice\bin\Debug\net8.0\StringPractice.pdb
+C:\Users\SYS-232\OneDrive\Desktop\StringPractice\obj\Debug\net8.0\StringPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SYS-232\OneDrive\Desktop\StringPractice\obj\Debug\net8.0\StringPractice.AssemblyInfoInputs.cache
+C:\Users\SYS-232\OneDrive\Desktop\StringPractice\obj\Debug\net8.0\StringPractice.AssemblyInfo.cs
+C:\Users\SYS-232\OneDrive\Desktop\StringPractice\obj\Debug\net8.0\StringPractice.csproj.CoreCompileInputs.cache
+C:\Users\SYS-232\OneDrive\Desktop\StringPractice\obj\Debug\net8.0\StringPractice.dll
+C:\Users\SYS-232\OneDrive\Desktop\StringPractice\obj\Debug\net8.0\refint\StringPractice.dll
+C:\Users\SYS-232\OneDrive\Desktop\StringPractice\obj\Debug\net8.0\StringPractice.pdb
+C:\Users\SYS-232\OneDrive\Desktop\StringPractice\obj\Debug\net8.0\StringPractice.genruntimeconfig.cache
+C:\Users\SYS-232\OneDrive\Desktop\StringPractice\obj\Debug\net8.0\ref\StringPractice.dll
